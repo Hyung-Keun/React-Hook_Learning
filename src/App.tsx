@@ -1,5 +1,12 @@
+import UseStateComponent from "./UseStateComponent";
+
 function App() {
-  return <div>Hook Practice Preparation</div>;
+  return (
+    <div>
+      <h1>useState</h1>
+      <UseStateComponent />
+    </div>
+  );
 }
 
 export default App;
