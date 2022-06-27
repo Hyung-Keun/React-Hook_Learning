@@ -1,9 +1,9 @@
-import UseEffectComponent from "./UseEffectComponent";
-import UseStateComponent from "./UseStateComponent";
-import UseContextComponent from "./UseContextComponent";
-import UseReducerComponent from "./UseReducerComponent";
-import UseRefComponent from "./UseRefComponent";
-import CustomHookComponent from "./CustomHookComponent";
+import UseEffectComponent from "./JHerrington/UseEffectComponent";
+import UseStateComponent from "./JHerrington/UseStateComponent";
+import UseContextComponent from "./JHerrington/UseContextComponent";
+import UseReducerComponent from "./JHerrington/UseReducerComponent";
+import UseRefComponent from "./JHerrington/UseRefComponent";
+import CustomHookComponent from "./JHerrington/CustomHookComponent";
 
 function App() {
   return (
